@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Aivaras-Kursevicius/Hackathon2021/static/css/main.bc99d5c1.chunk.css",
+    "main.js": "/Aivaras-Kursevicius/Hackathon2021/static/js/main.b2588490.chunk.js",
+    "main.js.map": "/Aivaras-Kursevicius/Hackathon2021/static/js/main.b2588490.chunk.js.map",
+    "runtime-main.js": "/Aivaras-Kursevicius/Hackathon2021/static/js/runtime-main.42594ca8.js",
+    "runtime-main.js.map": "/Aivaras-Kursevicius/Hackathon2021/static/js/runtime-main.42594ca8.js.map",
+    "static/js/2.30469dc2.chunk.js": "/Aivaras-Kursevicius/Hackathon2021/static/js/2.30469dc2.chunk.js",
+    "static/js/2.30469dc2.chunk.js.map": "/Aivaras-Kursevicius/Hackathon2021/static/js/2.30469dc2.chunk.js.map",
+    "static/js/3.c1718444.chunk.js": "/Aivaras-Kursevicius/Hackathon2021/static/js/3.c1718444.chunk.js",
+    "static/js/3.c1718444.chunk.js.map": "/Aivaras-Kursevicius/Hackathon2021/static/js/3.c1718444.chunk.js.map",
+    "index.html": "/Aivaras-Kursevicius/Hackathon2021/index.html",
+    "static/css/main.bc99d5c1.chunk.css.map": "/Aivaras-Kursevicius/Hackathon2021/static/css/main.bc99d5c1.chunk.css.map",
+    "static/js/2.30469dc2.chunk.js.LICENSE.txt": "/Aivaras-Kursevicius/Hackathon2021/static/js/2.30469dc2.chunk.js.LICENSE.txt",
+    "static/media/probability.7731b2e0.svg": "/Aivaras-Kursevicius/Hackathon2021/static/media/probability.7731b2e0.svg",
+    "static/media/treeConnect.b021aad5.svg": "/Aivaras-Kursevicius/Hackathon2021/static/media/treeConnect.b021aad5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42594ca8.js",
+    "static/js/2.30469dc2.chunk.js",
+    "static/css/main.bc99d5c1.chunk.css",
+    "static/js/main.b2588490.chunk.js"
+  ]
+}
